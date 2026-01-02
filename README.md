@@ -65,4 +65,4 @@ I don't just "know" these tools; I use them to ship products.
 
 ### 📫 Ready to Deploy?
 I am open to **Data Science** and **Software Engineering** roles where I can make an immediate impact.
-[**Download My CV**](Link_to_your_PDF) | [**Portfolio**](https://my-portfolio-eight-kappa-82.vercel.app/)
+[**Download My CV**](Link_to_your_PDF) | [**Portfolio**](http)
