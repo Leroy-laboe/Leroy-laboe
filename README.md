@@ -1,68 +1,103 @@
-# Hi, I'm Leroy Nyasha Mangwarara 👋
+Hi, I’m Leroy Nyasha Mangwarara 👋
 
-![Banner](https://img.shields.io/badge/Full%20Stack%20Dev-Data%20Scientist-blueviolet?style=for-the-badge)
+Computer Science (Dean’s List, CGPA 3.69) — I build data-driven systems and full-stack products, with a strong interest in applied ML + real-world deployment.
 
-> **"Data without engineering is just a report. Engineering without data is just a guess."**
+📍 Open to KAUST internships / research internships (Data Science, ML, Software Engineering)
+📄 CV: Download
+ • 🌐 Portfolio: Visit
+ • 📫 Email: mangwararaleroy@gmail.com
 
-I bridge the gap. I am a **Dean's List** Computer Science student (CGPA: 3.69) specializing in building **production-ready applications** that leverage **data intelligence**.
+⚡ What I do (in plain English)
 
----
+I work at the intersection of:
 
-## 🏆 Proven Excellence & Leadership
+Software Engineering → building usable, production-focused apps
 
-* 🥇 **Co-Founder & Tech Lead (Go Incentives):** Designed the technical architecture for a blockchain-based social impact platform. Prototyped **AI computer-vision pipelines** for waste classification.
-* 🎓 **Top Academic Performance:** Consistent **Dean's List** recipient (All Semesters) with a CGPA of **3.69 / 4.00**.
-* 🚀 **STEM Facilitator:** Delivered hands-on coding workshops and guided students through logic and debugging basics at the National STEM Carnival.
+Data Science / ML → extracting insights + building models that make decisions
 
----
+Systems / IoT → making hardware + sensors trigger real action
 
-## 🛠 The Hybrid Arsenal
+I care about shipping, not just “having projects”.
 
-I don't just "know" these tools; I use them to ship products.
+🧠 Skills (what I actually use)
 
-| **Build (Engineering)** | **Analyze (Data Science)** |
-| :--- | :--- |
-| ![React](https://img.shields.io/badge/React-Next.js-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) | ![Python](https://img.shields.io/badge/Python-Data_Pipelines-3670A0?style=flat-square&logo=python&logoColor=ffdd54) |
-| ![PHP](https://img.shields.io/badge/PHP-Laravel-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-Analytics-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-Systems-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) | ![Scikit](https://img.shields.io/badge/Scikit_Learn-ML_Models-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) |
-| ![Arduino](https://img.shields.io/badge/Arduino-IoT_Systems-00979D?style=flat-square&logo=arduino&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) |
+Programming: Python, Java, PHP, JavaScript/TypeScript
+Web: React, Next.js, Tailwind, Laravel
+Data/ML: Pandas, NumPy, scikit-learn, Matplotlib
+Other: Arduino, Sensors, GSM modules
+Core Strength: turning messy real-world problems into working systems
 
----
+🚀 Featured Projects (with proof)
+1) NavSmart — Campus Navigation System
 
-## 📂 High-Impact Projects
+Stack: React, Tailwind, Leaflet.js, Graph Algorithms
+✅ Built a campus navigation platform that computes optimal routes using Dijkstra’s algorithm.
+✅ Designed multi-floor navigation + virtual tour support.
 
-### 1. NavSmart | Campus Navigation System
-*Full-Stack Engineering | React.js, Tailwind, Leaflet.js*
-> **The Challenge:** Users needed an accurate way to navigate complex campus environments.
-> **The Solution:** Developed a geospatial platform helping users locate key facilities efficiently.
-* **Engineering:** Implemented **Dijkstra's Shortest Path Algorithm** to compute optimal routes with high accuracy.
-* **Feature:** Integrated immersive virtual tour modules for multi-floor navigation.
-* [View Code](#)
+🔗 Code: GitHub Repo
 
-### 2. Ride Sense | Urban Ride-Hailing Analytics
-*Data Science Pipeline | Python, Pandas, Scikit-learn*
-> **The Challenge:** Identifying operational irregularities in large-scale ride-hailing data.
-> **The Solution:** Built an end-to-end analytics system using clustering and association rule mining.
-* **Analysis:** Implemented **Anomaly Detection models** to identify abnormal ride patterns and demand surges.
-* **Outcome:** Provided data-driven insights for operational optimization.
-* [View Notebook](#)
+🔗 Demo: Live Demo / Video
 
-### 3. Accident Detection System
-*IoT & Automation | Arduino, C++, GSM Modules*
-> **The Challenge:** Reducing response times during vehicle accidents.
-> **The Solution:** Created a real-time alert system using motion and vibration sensors.
-* **Automation:** Engineered triggers to send immediate GSM notifications to emergency contacts upon crash detection.
-* [View Code](#)
+Key engineering details
 
----
+Implemented shortest-path routing for POIs on a campus map
 
-## 📜 Certifications
-* **PCEP:** Certified Entry-Level Python Programmer
-* **Google Data Analytics Professional Certificate** (In Progress)
-* **Machine Learning Specialization** - DeepLearning.AI & Stanford (In Progress)
+Built interactive UI for navigation and facility discovery
 
----
+2) RideSense — Urban Ride-Hailing Analytics
 
-### 📫 Ready to Deploy?
-I am open to **Data Science** and **Software Engineering** roles where I can make an immediate impact.
-[**Download My CV**](Link_to_your_PDF) | [**Portfolio**](http)
+Stack: Python, Pandas, scikit-learn
+✅ Built an end-to-end analytics workflow using clustering + anomaly detection to flag irregular ride behavior and demand spikes.
+✅ Produced insights that could drive operational optimization decisions.
+
+🔗 Notebook: View Notebook
+
+🔗 Code: GitHub Repo
+
+Key data science details
+
+Feature engineering + preprocessing pipeline
+
+Unsupervised learning for pattern discovery
+
+Detection of abnormal demand behavior
+
+3) Accident Detection System (IoT + Automation)
+
+Stack: Arduino, C++, vibration/motion sensors, GSM module
+✅ Built a real-time alert system that detects crashes and sends emergency SMS alerts instantly.
+
+🔗 Code: GitHub Repo
+
+🔗 Demo: Video
+
+Key systems details
+
+Sensor trigger logic for crash detection
+
+GSM communication for automated alerts
+
+🏅 Leadership & Experience
+
+Co-Founder & Tech Lead (Go Incentives) — designed platform architecture + prototyped computer-vision waste classification pipeline
+
+STEM Facilitator — taught hands-on coding and debugging fundamentals at the National STEM Carnival
+
+Dean’s List (All Semesters) — CGPA 3.69 / 4.00
+
+📜 Certifications
+
+PCEP — Certified Entry-Level Python Programmer
+
+Google Data Analytics Professional Certificate (in progress)
+
+Machine Learning Specialization (DeepLearning.AI + Stanford) (in progress)
+
+📫 Contact
+
+If you’re looking for someone who can build + analyze + ship, let’s talk.
+
+📩 mangwararaleroy@gmail.com
+
+🔗 LinkedIn: (ADD_LINK)
+🔗 Portfolio: (ADD_LINK)
