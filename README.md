@@ -1,103 +1,110 @@
-Hi, I’m Leroy Nyasha Mangwarara 👋
+# Hi, I’m Leroy Nyasha Mangwarara 👋
 
-Computer Science (Dean’s List, CGPA 3.69) — I build data-driven systems and full-stack products, with a strong interest in applied ML + real-world deployment.
+![Banner](https://img.shields.io/badge/Full%20Stack-Data%20Science%20%7C%20ML-blueviolet?style=for-the-badge)
 
-📍 Open to KAUST internships / research internships (Data Science, ML, Software Engineering)
-📄 CV: Download
- • 🌐 Portfolio: Visit
- • 📫 Email: mangwararaleroy@gmail.com
+**Computer Science (Dean’s List, CGPA 3.69/4.00)** — I build **data-driven systems**, **ML prototypes**, and **production-focused applications**, with interest in **applied machine learning** and **real-world deployment**.
 
-⚡ What I do (in plain English)
+📍 Open to **Internships** (Software Engineering • Data Science • Machine Learning)  
+🌐 Portfolio: **[Visit](https://my-portfolio-eight-kappa-82.vercel.app/)**  
+💼 LinkedIn: **[Connect](https://www.linkedin.com/in/leroy-nyasha-mangwarara-86185a302/)**  
+📫 Email: **mangwararaleroy@gmail.com**
 
-I work at the intersection of:
+---
 
-Software Engineering → building usable, production-focused apps
+## What I do
+- **Engineering:** Full-stack apps + clean architecture + algorithms
+- **ML/Data:** analytics pipelines + models for classification and detection
+- **Systems/IoT:** hardware + sensors + automation for real-time workflows
 
-Data Science / ML → extracting insights + building models that make decisions
+---
 
-Systems / IoT → making hardware + sensors trigger real action
+## Skills
+**Languages:** Python, Java, JavaScript/TypeScript, PHP, C++  
+**Web:** React, Next.js, TailwindCSS, Laravel  
+**Data/ML:** Pandas, NumPy, scikit-learn, Matplotlib  
+**Systems:** Arduino, RFID, GSM modules, sensors  
 
-I care about shipping, not just “having projects”.
+---
 
-🧠 Skills (what I actually use)
+## Featured Projects (Best Work)
 
-Programming: Python, Java, PHP, JavaScript/TypeScript
-Web: React, Next.js, Tailwind, Laravel
-Data/ML: Pandas, NumPy, scikit-learn, Matplotlib
-Other: Arduino, Sensors, GSM modules
-Core Strength: turning messy real-world problems into working systems
+### Deep Learning Handwriting Recognition
+*Deep Learning | Image Classification*
 
-🚀 Featured Projects (with proof)
-1) NavSmart — Campus Navigation System
+Built a handwriting recognition model using deep learning to classify handwritten characters.
 
-Stack: React, Tailwind, Leaflet.js, Graph Algorithms
-✅ Built a campus navigation platform that computes optimal routes using Dijkstra’s algorithm.
-✅ Designed multi-floor navigation + virtual tour support.
+**Highlights**
+- Image preprocessing + normalization pipeline  
+- Model training and evaluation workflow  
+- Performance tuning and iterative improvement  
 
-🔗 Code: GitHub Repo
+🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/Deep-Learning-hand-writing-recognition-)**  
+🔗 Link To the Test Data: **[View](https://drive.google.com/drive/folders/1uGxiYEFrJP8tq05VoYHhonVUqjtByQiB?usp=sharing)**
+🔗 Demo: **[Live](https://huggingface.co/spaces/leroym2025/handwriting-recognition)**
 
-🔗 Demo: Live Demo / Video
+---
 
-Key engineering details
+### Cardano Transaction Graph Analysis
+*Data Science | Graph Analytics | Blockchain Data*
 
-Implemented shortest-path routing for POIs on a campus map
+Analyzed Cardano transactions using graph-based techniques to identify patterns and relationships in transaction flows.
 
-Built interactive UI for navigation and facility discovery
+**Highlights**
+- Built transaction graphs to explore network structure  
+- Extracted insights from node/edge behavior and connectivity  
+- Designed analysis workflow for large transaction datasets  
 
-2) RideSense — Urban Ride-Hailing Analytics
+🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/cardano-transaction-graph-analysis)**  
 
-Stack: Python, Pandas, scikit-learn
-✅ Built an end-to-end analytics workflow using clustering + anomaly detection to flag irregular ride behavior and demand spikes.
-✅ Produced insights that could drive operational optimization decisions.
+---
 
-🔗 Notebook: View Notebook
+### NavSmart — Campus Navigation System
+*Full-Stack | React, Tailwind, Leaflet.js, Graph Algorithms*
 
-🔗 Code: GitHub Repo
+Built a campus navigation platform that computes optimal routes using **Dijkstra’s algorithm**, with an interactive map UI for locating facilities.
 
-Key data science details
+**Highlights**
+- Implemented shortest-path routing across campus points-of-interest  
+- Built map-based UI for navigation and facility discovery  
+- Added virtual tour support for multi-floor navigation (where applicable)  
 
-Feature engineering + preprocessing pipeline
+🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/Nav-Smart-)**  
+🔗 Demo (live): **[Live](https://github.com/Leroy-laboe/Nav-Smart-)**
 
-Unsupervised learning for pattern discovery
+---
 
-Detection of abnormal demand behavior
+### RFID Access System
+*IoT/Embedded | RFID | Security Automation*
 
-3) Accident Detection System (IoT + Automation)
+Built an RFID-based access control prototype for secure entry and authentication.
 
-Stack: Arduino, C++, vibration/motion sensors, GSM module
-✅ Built a real-time alert system that detects crashes and sends emergency SMS alerts instantly.
+**Highlights**
+- RFID scanning + access verification logic  
+- Secure access workflow (authorized vs blocked users)  
+- Integrated feedback system (buzzer/LED/logging if applicable)  
 
-🔗 Code: GitHub Repo
+🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/RFID-Access-System)**  
 
-🔗 Demo: Video
+---
 
-Key systems details
+## More Projects
+- **RideSense — Urban Ride-Hailing Analytics** — [Repo](TODO:RIDESENSE_REPO) | [Notebook](TODO:RIDESENSE_NOTEBOOK)
+- **Sentiment Analysis of Netflix Play Store Reviews** — [Repo](https://github.com/Leroy-laboe/Sentiment-Analysis-of-Netflix-Play-Store-Reviews-) | [Live](https://au9zwhdrov4iwrx75efra2.streamlit.app/)
+- **Mandarin Pronunciation Practice** — [Repo](https://github.com/Leroy-laboe/Mandarin-Pronunciation-Practice) | [Demo Video](https://drive.google.com/file/d/1tOochDfJKwEQdbddCDBUdhEjSYuZAaZT/view?usp=drive_link)
 
-Sensor trigger logic for crash detection
+---
 
-GSM communication for automated alerts
+## Leadership & Experience
+- **Co-Founder & Tech Lead (Go Incentives):** designed architecture for a blockchain-based social impact product; prototyped **computer-vision waste classification** pipeline  
+- **STEM Facilitator:** delivered hands-on coding workshops and guided students through logic + debugging basics  
+- **Dean’s List (All Semesters):** CGPA **3.69 / 4.00**
 
-🏅 Leadership & Experience
 
-Co-Founder & Tech Lead (Go Incentives) — designed platform architecture + prototyped computer-vision waste classification pipeline
+---
 
-STEM Facilitator — taught hands-on coding and debugging fundamentals at the National STEM Carnival
+## Contact
+If you’re looking for someone who can **build + analyze + ship**, let’s talk.
 
-Dean’s List (All Semesters) — CGPA 3.69 / 4.00
-
-📜 Certifications
-
-PCEP — Certified Entry-Level Python Programmer
-
-Google Data Analytics Professional Certificate (in progress)
-
-Machine Learning Specialization (DeepLearning.AI + Stanford) (in progress)
-
-📫 Contact
-
-If you’re looking for someone who can build + analyze + ship, let’s talk.
-
-📩 mangwararaleroy@gmail.com
-
-🔗 LinkedIn: (ADD_LINK)
-🔗 Portfolio: (ADD_LINK)
+📩 **mangwararaleroy@gmail.com**  
+💼 **LinkedIn:** [Connect](https://www.linkedin.com/in/leroy-nyasha-mangwarara-86185a302/)  
+🌐 **Portfolio:** [Visit](https://my-portfolio-eight-kappa-82.vercel.app/)
