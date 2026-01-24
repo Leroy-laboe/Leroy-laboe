@@ -69,7 +69,7 @@ Built a campus navigation platform that computes optimal routes using **Dijkstra
 - Added virtual tour support for multi-floor navigation (where applicable)  
 
 🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/Nav-Smart-)**  
-🔗 Demo (live): **[Live](https://github.com/Leroy-laboe/Nav-Smart-)**
+🔗 Demo (live): **[Live](https://nav-smart.vercel.app/)**
 
 ---
 
