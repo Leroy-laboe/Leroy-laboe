@@ -88,7 +88,7 @@ Built an RFID-based access control prototype for secure entry and authentication
 ---
 
 ## More Projects
-- **RideSense — Urban Ride-Hailing Analytics** — [Repo](TODO:RIDESENSE_REPO) | [Notebook](TODO:RIDESENSE_NOTEBOOK)
+- **RideSense — Urban Ride-Hailing Analytics** 
 - **Sentiment Analysis of Netflix Play Store Reviews** — [Repo](https://github.com/Leroy-laboe/Sentiment-Analysis-of-Netflix-Play-Store-Reviews-) | [Live](https://au9zwhdrov4iwrx75efra2.streamlit.app/)
 - **Mandarin Pronunciation Practice** — [Repo](https://github.com/Leroy-laboe/Mandarin-Pronunciation-Practice) | [Demo Video](https://drive.google.com/file/d/1tOochDfJKwEQdbddCDBUdhEjSYuZAaZT/view?usp=drive_link)
 
