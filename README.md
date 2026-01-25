@@ -26,7 +26,7 @@
 
 ---
 
-## Featured Projects (Best Work)
+## Featured Projects 
 
 ### Deep Learning Handwriting Recognition
 *Deep Learning | Image Classification*
@@ -70,6 +70,22 @@ Built a campus navigation platform that computes optimal routes using **Dijkstra
 
 🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/Nav-Smart-)**  
 🔗 Demo (live): **[Live](https://nav-smart.vercel.app/)**
+
+---
+
+### Campus Geo-Anomaly Sentinel  
+*Computer Graphics | Geo-Spatial Visualization | Time-Series Anomaly Detection*
+
+Built an interactive geo-spatial visual analytics dashboard that overlays simulated campus mobility trajectories and anchored IoT sensor streams on a real campus map, then detects and explains spatiotemporal anomalies.
+
+**Highlights**
+- Real campus boundary + POIs + anchored IoT sensors (Gate / Library / Cafeteria / Hostel / Admin)  
+- Spatiotemporal simulation: mobility trajectories + sensor count time-series (WiFi / BLE / Gate)  
+- Statistical anomaly detection (Z-score spikes) with ranked alert feed + sensitivity tuning  
+- Investigation workflow: click sensor/anomaly → map focus → trend chart with outlier highlighting  
+
+🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/campus-geo-anomaly-dashboard)**  
+🔗 Demo: **[Live](https://campus-geo-anomaly-dashboard.vercel.app)**  
 
 ---
 
