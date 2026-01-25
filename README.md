@@ -40,6 +40,7 @@ Built a handwriting recognition model using deep learning to classify handwritte
 
 🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/Deep-Learning-hand-writing-recognition-)**  
 🔗 Link To the Test Data: **[View](https://drive.google.com/drive/folders/1uGxiYEFrJP8tq05VoYHhonVUqjtByQiB?usp=sharing)**
+
 🔗 Demo: **[Live](https://huggingface.co/spaces/leroym2025/handwriting-recognition)**
 
 ---
@@ -101,7 +102,8 @@ Built an indoor autonomous obstacle detection and avoidance system that makes **
 
 🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/iot-obstacle-avoidance-robot-esp32)**  
 🔗 Demo (Wokwi): **[Wokwi](https://drive.google.com/file/d/1vneza3bso-Ph8HEa9_8O7d3kEh_OddDW/view?usp=sharing)**  
-🔗 Demo (presentation at the end of the video): **[](https://drive.google.com/file/d/1vneza3bso-Ph8HEa9_8O7d3kEh_OddDW/view?usp=sharing)** 
+🔗 Demo (presentation at the end of the video): **[drive](https://drive.google.com/file/d/1vneza3bso-Ph8HEa9_8O7d3kEh_OddDW/view?usp=sharing)** 
+
 🔗 MQTT Topic: **`robots/leroy/telemetry`** (Broker: `test.mosquitto.org`)
 
 ---
