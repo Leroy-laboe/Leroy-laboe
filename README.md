@@ -107,6 +107,20 @@ Built an indoor autonomous obstacle detection and avoidance system that makes **
 🔗 MQTT Topic: **`robots/leroy/telemetry`** (Broker: `test.mosquitto.org`)
 
 ---
+### Smart Car Safety System — Accident Detection + Alert
+*Embedded Systems | Arduino, MPU6050 (IMU), OLED SSD1306, Alerting Logic*
+
+Built a crash + rollover detection prototype using the **MPU6050 accelerometer/gyroscope**, displaying live sensor data on an **OLED screen** and triggering **buzzer/LED alerts** when unsafe motion thresholds are detected.
+
+**Highlights**
+- Real-time **impact detection** using acceleration magnitude (g-force thresholding)  
+- **Rollover detection** using gyroscope rotation magnitude (°/s thresholding)  
+- On-device status display (OLED) + safety feedback system (buzzer + LED)  
+- Serial debugging output for live monitoring and calibration support  
+
+🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/Smart-Car-Safety-System--Accident-Detection---Alert-)**
+
+---
 
 ### RFID Access System
 *IoT/Embedded | RFID | Security Automation*
