@@ -88,6 +88,23 @@ Built an interactive geo-spatial visual analytics dashboard that overlays simula
 🔗 Demo: **[Live](https://campus-geo-anomaly-dashboard.vercel.app)**  
 
 ---
+### IoT Obstacle Avoidance Robot — ESP32 Telemetry System
+*Embedded IoT | ESP32, Arduino, MQTT, Wokwi Simulation*
+
+Built an indoor autonomous obstacle detection and avoidance system that makes **real-time navigation decisions** locally while publishing **live telemetry** to the cloud via **MQTT over Wi-Fi**.
+
+**Highlights**
+- Combined **HC-SR04 ultrasonic** + **5 IR sensors** for multi-direction obstacle sensing  
+- Implemented **rule-based navigation logic** (forward/turn/reverse) with buzzer alerts  
+- Published **JSON telemetry** to MQTT for remote monitoring in MQTT Explorer  
+- Simulated full system in **Wokwi** (LEDs used to represent motor directions)
+
+🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/iot-obstacle-avoidance-robot-esp32)**  
+🔗 Demo (Wokwi): **[Wokwi](https://drive.google.com/file/d/1vneza3bso-Ph8HEa9_8O7d3kEh_OddDW/view?usp=sharing)**  
+🔗 Demo (presentation at the end of the video): **[](https://drive.google.com/file/d/1vneza3bso-Ph8HEa9_8O7d3kEh_OddDW/view?usp=sharing)** 
+🔗 MQTT Topic: **`robots/leroy/telemetry`** (Broker: `test.mosquitto.org`)
+
+---
 
 ### RFID Access System
 *IoT/Embedded | RFID | Security Automation*
