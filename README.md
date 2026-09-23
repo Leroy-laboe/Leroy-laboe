@@ -26,12 +26,13 @@ Digital art ecosystem connecting artists, collectors, buyers, guardians, and adm
 
 * Artist, buyer, guardian, and administrator experiences
 * Artwork management and marketplace workflows
-* Authentication and user-role handling
+* Authentication and role-based user experiences
 * Messaging and viewing-room functionality
 * Supabase database migrations and Row Level Security
 * Security hardening and access-control improvements
 
 🔗 [Repository](https://github.com/Leroy-laboe/ARTBANK)
+🌐 [Live Demo](https://artbank-seven.vercel.app/)
 
 ---
 
@@ -50,13 +51,15 @@ Credential and identity verification platform supporting candidates, organisatio
 * AI-assisted document analysis
 * Supabase Edge Functions, storage, authentication, and RLS
 
+🌐 [Live Demo](https://veri5.vercel.app/)
+
 ---
 
 ### HGI.life
 
 *Interactive Web Experience | React • TypeScript • Three.js • Vite*
 
-Interactive corporate ecosystem platform designed to communicate a complex portfolio of products, research, services, and business initiatives.
+Interactive corporate ecosystem platform designed to communicate a portfolio of products, research, services, and business initiatives.
 
 **Worked across:**
 
@@ -65,6 +68,8 @@ Interactive corporate ecosystem platform designed to communicate a complex portf
 * Interactive 3D ecosystem visualisations
 * Animation-rich product experiences
 * Research, gallery, architecture, and company pages
+
+🌐 [Live Demo](https://hgi-life.vercel.app/)
 
 ---
 
