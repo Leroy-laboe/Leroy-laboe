@@ -1,159 +1,239 @@
-# Hi, I’m Leroy Nyasha Mangwarara 👋
+# Hi, I'm Leroy Nyasha Mangwarara 👋
 
-![Banner](https://img.shields.io/badge/Full%20Stack-Data%20Science%20%7C%20ML-blueviolet?style=for-the-badge)
+**Software Engineer | Full-Stack • Applied AI • Data**
 
-**Computer Science (Dean’s List, CGPA 3.69/4.00)** — I build **data-driven systems**, **ML prototypes**, and **production-focused applications**, with interest in **applied machine learning** and **real-world deployment**.
+Computer Science student specialising in **Data Science**, with hands-on experience building **full-stack platforms, AI-enabled applications, data-driven systems, and interactive web experiences**.
 
-📍 Open to **Internships** (Software Engineering • Data Science • Machine Learning)  
-🌐 Portfolio: **[Visit](https://my-portfolio-eight-kappa-82.vercel.app/)**  
-💼 LinkedIn: **[Connect](https://www.linkedin.com/in/leroy-nyasha-mangwarara-86185a302/)**  
-📫 Email: **mangwararaleroy@gmail.com**
-
----
-
-## What I do
-- **Engineering:** Full-stack apps + clean architecture + algorithms
-- **ML/Data:** analytics pipelines + models for classification and detection
-- **Systems/IoT:** hardware + sensors + automation for real-time workflows
-
----
-
-## Skills
-**Languages:** Python, Java, JavaScript/TypeScript, PHP, C++  
-**Web:** React, Next.js, TailwindCSS, Laravel  
-**Data/ML:** Pandas, NumPy, scikit-learn, Matplotlib  
-**Systems:** Arduino, RFID, GSM modules, sensors  
-
----
-
-## Featured Projects 
-
-### Deep Learning Handwriting Recognition
-*Deep Learning | Image Classification*
-
-Built a handwriting recognition model using deep learning to classify handwritten characters.
-
-**Highlights**
-- Image preprocessing + normalization pipeline  
-- Model training and evaluation workflow  
-- Performance tuning and iterative improvement  
-
-🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/Deep-Learning-hand-writing-recognition-)**  
-🔗 Link To the Test Data: **[View](https://drive.google.com/drive/folders/1uGxiYEFrJP8tq05VoYHhonVUqjtByQiB?usp=sharing)**
-
-🔗 Demo: **[Live](https://huggingface.co/spaces/leroym2025/handwriting-recognition)**
-
----
-
-### Cardano Transaction Graph Analysis
-*Data Science | Graph Analytics | Blockchain Data*
-
-Analyzed Cardano transactions using graph-based techniques to identify patterns and relationships in transaction flows.
-
-**Highlights**
-- Built transaction graphs to explore network structure  
-- Extracted insights from node/edge behavior and connectivity  
-- Designed analysis workflow for large transaction datasets  
-
-🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/cardano-transaction-graph-analysis)**  
-
----
-
-### NavSmart — Campus Navigation System
-*Full-Stack | React, Tailwind, Leaflet.js, Graph Algorithms*
-
-Built a campus navigation platform that computes optimal routes using **Dijkstra’s algorithm**, with an interactive map UI for locating facilities.
-
-**Highlights**
-- Implemented shortest-path routing across campus points-of-interest  
-- Built map-based UI for navigation and facility discovery  
-- Added virtual tour support for multi-floor navigation (where applicable)  
-
-🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/Nav-Smart-)**  
-🔗 Demo (live): **[Live](https://nav-smart.vercel.app/)**
-
----
-
-### Campus Geo-Anomaly Sentinel  
-*Computer Graphics | Geo-Spatial Visualization | Time-Series Anomaly Detection*
-
-Built an interactive geo-spatial visual analytics dashboard that overlays simulated campus mobility trajectories and anchored IoT sensor streams on a real campus map, then detects and explains spatiotemporal anomalies.
-
-**Highlights**
-- Real campus boundary + POIs + anchored IoT sensors (Gate / Library / Cafeteria / Hostel / Admin)  
-- Spatiotemporal simulation: mobility trajectories + sensor count time-series (WiFi / BLE / Gate)  
-- Statistical anomaly detection (Z-score spikes) with ranked alert feed + sensitivity tuning  
-- Investigation workflow: click sensor/anomaly → map focus → trend chart with outlier highlighting  
-
-🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/campus-geo-anomaly-dashboard)**  
-🔗 Demo: **[Live](https://campus-geo-anomaly-dashboard.vercel.app)**  
-
----
-### IoT Obstacle Avoidance Robot — ESP32 Telemetry System
-*Embedded IoT | ESP32, Arduino, MQTT, Wokwi Simulation*
-
-Built an indoor autonomous obstacle detection and avoidance system that makes **real-time navigation decisions** locally while publishing **live telemetry** to the cloud via **MQTT over Wi-Fi**.
-
-**Highlights**
-- Combined **HC-SR04 ultrasonic** + **5 IR sensors** for multi-direction obstacle sensing  
-- Implemented **rule-based navigation logic** (forward/turn/reverse) with buzzer alerts  
-- Published **JSON telemetry** to MQTT for remote monitoring in MQTT Explorer  
-- Simulated full system in **Wokwi** (LEDs used to represent motor directions)
-
-🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/iot-obstacle-avoidance-robot-esp32)**  
-🔗 Demo (Wokwi): **[Wokwi](https://drive.google.com/file/d/1vneza3bso-Ph8HEa9_8O7d3kEh_OddDW/view?usp=sharing)**  
-🔗 Demo (presentation at the end of the video): **[drive](https://drive.google.com/file/d/1vneza3bso-Ph8HEa9_8O7d3kEh_OddDW/view?usp=sharing)** 
-
-🔗 MQTT Topic: **`robots/leroy/telemetry`** (Broker: `test.mosquitto.org`)
-
----
-### Smart Car Safety System — Accident Detection + Alert
-*Embedded Systems | Arduino, MPU6050 (IMU), OLED SSD1306, Alerting Logic*
-
-Built a crash + rollover detection prototype using the **MPU6050 accelerometer/gyroscope**, displaying live sensor data on an **OLED screen** and triggering **buzzer/LED alerts** when unsafe motion thresholds are detected.
-
-**Highlights**
-- Real-time **impact detection** using acceleration magnitude (g-force thresholding)  
-- **Rollover detection** using gyroscope rotation magnitude (°/s thresholding)  
-- On-device status display (OLED) + safety feedback system (buzzer + LED)  
-- Serial debugging output for live monitoring and calibration support  
-
-🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/Smart-Car-Safety-System--Accident-Detection---Alert-)**
-
----
-
-### RFID Access System
-*IoT/Embedded | RFID | Security Automation*
-
-Built an RFID-based access control prototype for secure entry and authentication.
-
-**Highlights**
-- RFID scanning + access verification logic  
-- Secure access workflow (authorized vs blocked users)  
-- Integrated feedback system (buzzer/LED/logging if applicable)  
-
-🔗 Repo: **[GitHub](https://github.com/Leroy-laboe/RFID-Access-System)**  
-
----
-
-## More Projects
-- **RideSense — Urban Ride-Hailing Analytics** 
-- **Sentiment Analysis of Netflix Play Store Reviews** — [Repo](https://github.com/Leroy-laboe/Sentiment-Analysis-of-Netflix-Play-Store-Reviews-) | [Live](https://au9zwhdrov4iwrx75efra2.streamlit.app/)
-- **Mandarin Pronunciation Practice** — [Repo](https://github.com/Leroy-laboe/Mandarin-Pronunciation-Practice) | [Demo Video](https://drive.google.com/file/d/1tOochDfJKwEQdbddCDBUdhEjSYuZAaZT/view?usp=drive_link)
-
----
-
-## Leadership & Experience
-- **Co-Founder & Tech Lead (Go Incentives):** designed architecture for a blockchain-based social impact product; prototyped **computer-vision waste classification** pipeline  
-- **STEM Facilitator:** delivered hands-on coding workshops and guided students through logic + debugging basics  
-- **Dean’s List (All Semesters):** CGPA **3.69 / 4.00**
-
-
----
-
-## Contact
-If you’re looking for someone who can **build + analyze + ship**, let’s talk.
-
-📩 **mangwararaleroy@gmail.com**  
-💼 **LinkedIn:** [Connect](https://www.linkedin.com/in/leroy-nyasha-mangwarara-86185a302/)  
+🎓 **BSc Computer Science (Data Science)** — CGPA **3.69/4.00** • Dean's List
+💼 Open to **Graduate / Entry-Level opportunities** in Software Engineering, Full-Stack Development, Data & Applied AI
 🌐 **Portfolio:** [Visit](https://my-portfolio-eight-kappa-82.vercel.app/)
+💼 **LinkedIn:** [Connect](https://www.linkedin.com/in/leroy-nyasha-mangwarara-86185a302/)
+📫 **Email:** [mangwararaleroy@gmail.com](mailto:mangwararaleroy@gmail.com)
+
+---
+
+## 💼 Software Development Experience
+
+During my software development internship, I contributed to multiple real-world digital products across **full-stack development, product engineering, UI/UX implementation, database-backed workflows, authentication, and applied AI**.
+
+### ARTBANK
+
+*Full-Stack Platform | React • TypeScript • Supabase • Fastify*
+
+Digital art ecosystem connecting artists, collectors, buyers, guardians, and administrators.
+
+**Worked across:**
+
+* Artist, buyer, guardian, and administrator experiences
+* Artwork management and marketplace workflows
+* Authentication and user-role handling
+* Messaging and viewing-room functionality
+* Supabase database migrations and Row Level Security
+* Security hardening and access-control improvements
+
+🔗 [Repository](https://github.com/Leroy-laboe/ARTBANK)
+
+---
+
+### Veri5
+
+*Verification Platform | React • Supabase • PostgreSQL • Applied AI*
+
+Credential and identity verification platform supporting candidates, organisations, and administrators.
+
+**Worked across:**
+
+* Candidate verification workflows
+* Organisation and administrator dashboards
+* Secure document uploads and status tracking
+* Identity and selfie verification experiences
+* AI-assisted document analysis
+* Supabase Edge Functions, storage, authentication, and RLS
+
+---
+
+### HGI.life
+
+*Interactive Web Experience | React • TypeScript • Three.js • Vite*
+
+Interactive corporate ecosystem platform designed to communicate a complex portfolio of products, research, services, and business initiatives.
+
+**Worked across:**
+
+* Multi-page React architecture
+* Responsive interface development
+* Interactive 3D ecosystem visualisations
+* Animation-rich product experiences
+* Research, gallery, architecture, and company pages
+
+---
+
+## 🚀 Featured Projects
+
+### NavSmart — Smart Campus Navigation System
+
+*Final Year Project | Full-Stack • React • Node.js • PostgreSQL • Leaflet • Algorithms*
+
+Designed and developed a campus navigation platform for Albukhary International University combining **shortest-path routing, interactive mapping, administrative tools, and immersive 360° virtual tours**.
+
+**Highlights**
+
+* Implemented **Dijkstra's shortest-path algorithm** for campus routing
+* Modelled campus locations and connections as a weighted navigation graph
+* Built REST APIs using **Node.js and Express**
+* Integrated **PostgreSQL** for navigation and campus data
+* Built an interactive **Leaflet.js** map for facility discovery and route visualisation
+* Implemented JWT authentication and administrative management features
+* Integrated **360° virtual tours** using Marzipano
+
+🔗 [Repository](https://github.com/Leroy-laboe/Nav-Smart-)
+🌐 [Live Demo](https://nav-smart.vercel.app/)
+
+---
+
+### Deep Learning Handwriting Identifier
+
+*Deep Learning • Computer Vision • TensorFlow/Keras • OpenCV • FastAPI*
+
+Built a deep-learning system that identifies handwriting authors from uploaded handwriting samples.
+
+**Highlights**
+
+* Developed image preprocessing and handwriting segmentation pipelines using **OpenCV**
+* Built and trained a **CNN-based classification model**
+* Applied image augmentation, normalization, class weighting, and model evaluation
+* Implemented character-level predictions with majority-voting logic
+* Built a **FastAPI** inference backend
+* Packaged the trained model into an interactive web application
+
+🔗 [Repository](https://github.com/Leroy-laboe/Deep-Learning-hand-writing-recognition-)
+🌐 [Live Demo](https://huggingface.co/spaces/leroym2025/handwriting-recognition)
+📊 [Test Data](https://drive.google.com/drive/folders/1uGxiYEFrJP8tq05VoYHhonVUqjtByQiB?usp=sharing)
+
+---
+
+### Campus Geo-Anomaly Sentinel
+
+*Data Analytics • Geospatial Visualisation • React • TypeScript • Leaflet*
+
+Built an interactive geospatial analytics dashboard for exploring simulated campus mobility and IoT sensor activity.
+
+**Highlights**
+
+* Modelled campus mobility trajectories and IoT sensor streams
+* Implemented statistical anomaly detection using **Z-score analysis**
+* Detected spatial hotspots and abnormal route behaviour
+* Built interactive map-based investigation workflows
+* Added time-series charts, anomaly ranking, and sensitivity controls
+* Used **React, TypeScript, Leaflet, Turf.js, and Recharts**
+
+🔗 [Repository](https://github.com/Leroy-laboe/campus-geo-anomaly-dashboard)
+🌐 [Live Demo](https://campus-geo-anomaly-dashboard.vercel.app)
+
+---
+
+### RootRise / Zunde Market
+
+*Social Impact Platform | Next.js • TypeScript • Supabase*
+
+Built as part of **Zunde**, a student-led initiative using **poultry farming as a sustainable revenue model to support underprivileged students in Zimbabwe**.
+
+**Highlights**
+
+* Designed marketplace and producer-network workflows
+* Built academy, order, authentication, and database flows
+* Structured the platform around training, production, commerce, and impact tracking
+* Worked on Supabase-backed relational data and access-control logic
+* Project received a **RM10,000 implementation grant from Albukhary International University**
+
+🔗 [Repository](https://github.com/Leroy-laboe/RootRise)
+
+---
+
+## 🧰 Technical Skills
+
+**Languages**
+Python • JavaScript • TypeScript • Java • C++ • PHP • SQL
+
+**Frontend**
+React • Next.js • Tailwind CSS • HTML • CSS • Leaflet.js • Three.js
+
+**Backend & Databases**
+Node.js • Express • FastAPI • Supabase • PostgreSQL • MySQL
+
+**Data & AI**
+Pandas • NumPy • scikit-learn • TensorFlow/Keras • OpenCV • Matplotlib • NetworkX
+
+**Tools & Platforms**
+Git • GitHub • Vercel • Docker • Postman • Figma
+
+**Embedded / IoT**
+Arduino • ESP32 • RFID • MQTT • Sensors
+
+---
+
+## 🧪 Additional Projects
+
+### Netflix Play Store Review Sentiment Analysis
+
+*Machine Learning Coursework | NLP • TF-IDF • scikit-learn • Streamlit*
+
+Built a three-class sentiment classifier for Netflix Play Store reviews and deployed an interactive inference interface.
+
+🔗 [Repository](https://github.com/Leroy-laboe/Sentiment-Analysis-of-Netflix-Play-Store-Reviews-)
+🌐 [Live Demo](https://au9zwhdrov4iwrx75efra2.streamlit.app/)
+
+### IoT Obstacle Avoidance Robot
+
+*IoT Coursework | ESP32 • MQTT • Wokwi*
+
+Designed a simulated autonomous obstacle-avoidance system using ultrasonic and IR sensing with real-time MQTT telemetry.
+
+🔗 [Repository](https://github.com/Leroy-laboe/iot-obstacle-avoidance-robot-esp32)
+
+### Smart Car Safety System
+
+*Embedded Systems | Arduino • MPU6050*
+
+Built an accident-detection prototype using accelerometer and gyroscope data to detect high-impact and rollover events.
+
+🔗 [Repository](https://github.com/Leroy-laboe/Smart-Car-Safety-System--Accident-Detection---Alert-)
+
+### RFID Access Control System
+
+*Embedded Systems | Arduino • RFID*
+
+Built an RFID-based access-control prototype with card authentication, servo locking, LEDs, and buzzer feedback.
+
+🔗 [Repository](https://github.com/Leroy-laboe/RFID-Access-System)
+
+---
+
+## 🌱 Leadership & Social Impact
+
+### Co-Founder & Tech Lead — Zunde
+
+Co-founded a student-led social-impact initiative exploring **poultry farming as a sustainable funding model for supporting underprivileged students in Zimbabwe**.
+
+* Helped shape the project's technical and platform strategy
+* Led development of **RootRise / Zunde Market**
+* Designed digital workflows connecting training, producers, buyers, operations, and impact tracking
+* Contributed to the team that secured a **RM10,000 implementation grant from Albukhary International University**
+
+### STEM Facilitator
+
+Supported hands-on programming activities and helped students build confidence in coding, logic, and debugging.
+
+### Academic Achievement
+
+**Dean's List** • CGPA **3.69/4.00**
+
+---
+
+## 📫 Let's Connect
+
+I'm interested in opportunities where I can contribute to **real products, solve technical problems, and continue growing as a software engineer**.
+
+📩 **Email:** [mangwararaleroy@gmail.com](mailto:mangwararaleroy@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/leroy-nyasha-mangwarara-86185a302](https://www.linkedin.com/in/leroy-nyasha-mangwarara-86185a302/)
+🌐 **Portfolio:** [my-portfolio-eight-kappa-82.vercel.app](https://my-portfolio-eight-kappa-82.vercel.app/)
